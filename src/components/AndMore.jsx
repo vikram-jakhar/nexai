@@ -95,8 +95,8 @@ const AndMore = () => {
 
     return (
         <>
-            <div className='sm:mt-[100px]  max-w-[1920px] mx-auto lg:mt-[160px] px-3'>
-                <h2 className='text-[40px] text-[#02CDCF] recharge font-bold leading-[50.4px] text-center'>
+            <div className='sm:mt-[100px]  max-w-[1920px] mx-auto lg:mt-[160px] px-3' id="about">
+                <h2 className='text-[28px] sm:text-[40px] text-[#02CDCF] recharge font-bold sm:leading-[50.4px] text-center'>
                     NexAi does all this. And more.
                 </h2>
                 <p className=' text-[16px] mt-[16px] text-[#B4B4B4] font-poppins font-normal leading-[25.6px] text-center m-auto max-w-[992px] mb-[12px] sm:mb-[70px]'>Nexai is an advanced home assistant that will revolutionize the way we interact with our smart devices at home. Powered by sophisticated artificial intelligence, it leverages blockchain technology to offer a secure and efficient user experience.</p>

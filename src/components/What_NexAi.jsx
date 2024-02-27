@@ -11,10 +11,10 @@ const What_NexAi = () => {
                     <div className='max-w-[1121px]   px-3'>
                         <div className='grid lg:grid-cols-2 gap-5 lg:gap-[89px]  justify-center items-center '>
                             <div className="col-span-1 lg:mt-0 mt-6">
-                                <h3 className='text-[40px] recharge text-[#02CDCF] font-bold leading-[50.4px]'>What is NexAi?</h3>
-                                <p className='text-[16px] pt-[16px] text-[#B7B8BA] font-poppins font-normal max-w-[564px]'>Beyond its convenience, Nexai revolutionizes the way you interact with your home environment. It enhances productivity, efficiency, and overall well-being. From managing your schedules to transforming the way you experience smart living, Nexai opens up a world of possibilities.</p>
-                                <p className='text-[16px] pt-[8px] text-[#B7B8BA] font-poppins font-normal max-w-[564px]'>Nexai's software can be installed on all your smart devices, including smartphones, computers, smart TVs, and kitchen appliances. It acts as a centralized control hub, allowing you to manage and interact with all your devices seamlessly. Whether it's adjusting the temperature, turning on appliances, or even accessing files on your home computer from anywhere, Nexai empowers you with effortless control.</p>
-                                <div className='mt-[40px]'>
+                                <h3 className='text-[28px] sm:text-[40px] recharge text-[#02CDCF] font-bold sm:leading-[50.4px]'>What is NexAi?</h3>
+                                <p className='text-[16px] pt-[10px] sm:pt-[16px] text-[#B7B8BA] font-poppins font-normal max-sm:leading-[18px] max-w-[564px]'>Beyond its convenience, Nexai revolutionizes the way you interact with your home environment. It enhances productivity, efficiency, and overall well-being. From managing your schedules to transforming the way you experience smart living, Nexai opens up a world of possibilities.</p>
+                                <p className='text-[16px] pt-[8px] text-[#B7B8BA] font-poppins font-normal max-sm:leading-[18px] max-w-[564px]'>Nexai's software can be installed on all your smart devices, including smartphones, computers, smart TVs, and kitchen appliances. It acts as a centralized control hub, allowing you to manage and interact with all your devices seamlessly. Whether it's adjusting the temperature, turning on appliances, or even accessing files on your home computer from anywhere, Nexai empowers you with effortless control.</p>
+                                <div className='mt-[14px] sm:mt-[40px]'>
                                     <ComanBtn text='Learn More' />
                                 </div>
                             </div>

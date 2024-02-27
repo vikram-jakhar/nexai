@@ -6,7 +6,7 @@ const NexAI_Token = () => {
     const dotCname = "min-[567px]:mb-[60px] mb-[20px] relative before:w-6 before:h-6 before:rounded-full before:bg-white before:absolute before:-left-[6px] before:top-1/2 before:-translate-y-1/2 pl-[42px] sm:pl-20 before:z-10"
     return (
         <>
-            <div className='relative overflow-x-clip'>
+            <div className='relative overflow-x-clip' id='nextchat'>
                 <span className={`   absolute w-[262px] top-[-120px] left-[-91px] h-[262px]  blur-[200px] bg-[#02CDCF] rounded-[50%]`}>
                 </span>
                 <span className={`   absolute w-[262px] top-[220px] right-[-191px] h-[262px]  blur-[200px] bg-[#02CDCF] rounded-[50%]`}>
@@ -16,7 +16,7 @@ const NexAI_Token = () => {
                 </span>
                 <div className='max-w-[1320px] mx-auto px-3 '>
 
-                    <h2 className='recharge text-[40px] text-[#02CDCF] font-bold leading-[50.4px] text-center'>NexAI Token & utility</h2>
+                    <h2 className='recharge text-[28px] sm:text-[40px] text-[#02CDCF] font-bold sm:leading-[50.4px] text-center'>NexAI Token & utility</h2>
                     <div className=' grid lg:grid-cols-2 justify-center gap-[20px] px-3'>
                         <div className='col-span-1 overflow-hidden'>
                             <div className='relative '>
